@@ -1,0 +1,120 @@
+﻿  Tutorial06.cpp
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: “DXGI_STATUS_OCCLUDED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55460): message : 参见“DXGI_STATUS_OCCLUDED”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: “DXGI_STATUS_CLIPPED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55469): message : 参见“DXGI_STATUS_CLIPPED”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: “DXGI_STATUS_NO_REDIRECTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55478): message : 参见“DXGI_STATUS_NO_REDIRECTION”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: “DXGI_STATUS_NO_DESKTOP_ACCESS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55487): message : 参见“DXGI_STATUS_NO_DESKTOP_ACCESS”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: “DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55496): message : 参见“DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: “DXGI_STATUS_MODE_CHANGED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55505): message : 参见“DXGI_STATUS_MODE_CHANGED”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: “DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55514): message : 参见“DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: “DXGI_ERROR_INVALID_CALL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55529): message : 参见“DXGI_ERROR_INVALID_CALL”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: “DXGI_ERROR_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55538): message : 参见“DXGI_ERROR_NOT_FOUND”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: “DXGI_ERROR_MORE_DATA”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55547): message : 参见“DXGI_ERROR_MORE_DATA”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: “DXGI_ERROR_UNSUPPORTED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55556): message : 参见“DXGI_ERROR_UNSUPPORTED”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: “DXGI_ERROR_DEVICE_REMOVED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55565): message : 参见“DXGI_ERROR_DEVICE_REMOVED”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: “DXGI_ERROR_DEVICE_HUNG”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55574): message : 参见“DXGI_ERROR_DEVICE_HUNG”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: “DXGI_ERROR_DEVICE_RESET”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55584): message : 参见“DXGI_ERROR_DEVICE_RESET”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: “DXGI_ERROR_WAS_STILL_DRAWING”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55593): message : 参见“DXGI_ERROR_WAS_STILL_DRAWING”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: “DXGI_ERROR_FRAME_STATISTICS_DISJOINT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55603): message : 参见“DXGI_ERROR_FRAME_STATISTICS_DISJOINT”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: “DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55612): message : 参见“DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: “DXGI_ERROR_DRIVER_INTERNAL_ERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55622): message : 参见“DXGI_ERROR_DRIVER_INTERNAL_ERROR”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: “DXGI_ERROR_NONEXCLUSIVE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55631): message : 参见“DXGI_ERROR_NONEXCLUSIVE”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: “DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55640): message : 参见“DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: “DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55650): message : 参见“DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: “DXGI_ERROR_REMOTE_OUTOFMEMORY”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55659): message : 参见“DXGI_ERROR_REMOTE_OUTOFMEMORY”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55923): message : 参见“D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: “D3D11_ERROR_FILE_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55932): message : 参见“D3D11_ERROR_FILE_NOT_FOUND”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55942): message : 参见“D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: “D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55951): message : 参见“D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: “D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55899): message : 参见“D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: “D3D10_ERROR_FILE_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55908): message : 参见“D3D10_ERROR_FILE_NOT_FOUND”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2662,52): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2662,64): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2662,76): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2662,88): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2663,52): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2663,64): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2663,76): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2664,52): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2664,64): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2664,76): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2665,52): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2666,64): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2667,76): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2668,88): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2689,46): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2689,58): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2689,70): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2689,82): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2690,88): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2691,88): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2694,88): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2695,88): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2698,64): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2702,76): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2702,88): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2712,65): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2712,91): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2713,52): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2713,78): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2715,52): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2716,52): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2716,65): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2717,52): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2717,65): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2717,78): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2727,54): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2728,56): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2729,58): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2730,54): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2730,65): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2731,56): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2731,67): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2732,54): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2732,67): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2742,60): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2742,79): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2743,70): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2754,73): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(2254,71): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(4523,69): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(4577,68): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(4639,65): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(4707,64): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(4770,64): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(4832,63): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathvector.inl(1269,45): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathvector.inl(1269,56): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathvector.inl(1269,67): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathvector.inl(1269,78): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathmisc.inl(518,43): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathmisc.inl(519,40): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+D:\Microsoft DirectX SDK (June 2010)\Include\xnamathmisc.inl(519,51): warning C4838: 从“unsigned int”转换到“INT”需要收缩转换
+  Tutorial06_2010.vcxproj -> D:\DX\Tutorial06\Debug\Tutorial06.exe

@@ -1,0 +1,2 @@
+D:\DX\Tutorial06\Debug\Tutorial06.exe
+D:\DX\Tutorial06\Debug\Tutorial06.pdb
